@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 👨‍💻 All of my projects are available at [https://yokesh0811.github.io/YOKESH-PORTFOLIO/](https://yokesh0811.github.io/YOKESH-PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [https://yokesh0811.github.io/YOKESH-](https://yokesh0811.github.io/YOKESH-PORTFOLIO/)
 
 - 💬 Ask me about **Better not ask me anything**
 
