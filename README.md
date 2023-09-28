@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YOKESH</h1>
 <h3 align="center">A Creative Frontend Developer and A Designer</h3>
 
-🔭 I’m currently working on Myself<br><br>💬 Ask me about - Better not ask me anything<br><br>📫 How to reach me yokeshrk08@gmail.com<br><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1Ym1OFG9ea2AyQqsenjZbkpA4bW9o3U1v/view?usp=share_link"> YOKESH RESUME </a><br><br>⚡ Fun fact - Totally not funny
+🔭 I’m currently working on Myself<br><br>💬 Ask me about - Better not ask me anything<br><br>📫 How to reach me rkyokesh0811@gmail.com<br><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1Ym1OFG9ea2AyQqsenjZbkpA4bW9o3U1v/view?usp=share_link"> YOKESH RESUME </a><br><br>⚡ Fun fact - Totally not funny
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yokeshrk) 
